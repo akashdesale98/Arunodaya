@@ -1,5 +1,5 @@
 # Parsing Excel in js
-Excel.vue contains demo example of parsing example
+Excel.vue contains demo example of parsing excel file
 
 External Libraries used
 
